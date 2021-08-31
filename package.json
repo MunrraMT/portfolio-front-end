@@ -2,7 +2,7 @@
   "name": "portfolio-front-end",
   "version": "1.0.0",
   "description": "Meu site",
-  "main": "index.js",
+  "private": true,
   "repository": "https://github.com/MunrraMT/portfolio-front-end.git",
   "author": "Andre Rodrigues Melgaço dos Santos <dev-asantos@outlook.com>",
   "license": "MIT",
